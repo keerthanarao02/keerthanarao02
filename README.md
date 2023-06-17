@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keerthanarao02
-- 👀 I’m interested in software testing and coding 
-- 🌱 I’m currently learning Java and algorithms in java
-- 💞️ I’m looking to collaborate on companies looking for testing group 
+- 👀 I’m interested in software coding 
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on companies looking for backend developer
 - 📫 How to reach me keerthideep0206@outlook.com
 
 <!---
